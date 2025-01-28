@@ -10,5 +10,5 @@
 - use different headings: DONE
 - add an image: DONE
     ![Project Image](DSC_0294%20copy.jpg)
-- add a hyperlink: DONE
-  [LinkedIn maybe?](https://www.linkedin.com/in/aylaabdullah/)
+- add a hyperlink: DONE </b>
+  [oh so funny!](https://medium.com/@bigshoe)
